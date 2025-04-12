@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bu-Ga-Ga
-- 👀 I’m interested in math, low level programming and many other
+- 👋 Hi, I’m Andrey
+
 
 
 
